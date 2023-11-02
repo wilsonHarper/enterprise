@@ -1,0 +1,171 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_fr_reports
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-17 13:58+0000\n"
+"PO-Revision-Date: 2023-02-17 13:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_g
+msgid "Amortization, depreciation and operating provisions (g)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_5
+msgid "Capitalized production"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_III
+msgid "Consumption during the year from third parties (III)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_VII
+msgid "Current result before tax VII (VI+i+j-k-l)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_o
+msgid "Employee participation (o)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_n
+msgid "Exceptional expenses (n)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_m
+msgid "Extraordinary income (m)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_VIII
+msgid "Extraordinary result VIII (m-n)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_l
+msgid "Financial charges (l)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_j
+msgid "Financial income (j)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_V
+msgid "Gross operating surplus V (IV+a-b-c)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_p
+msgid "Income tax (p)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_f
+msgid "Operating expense transfers (f)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_VI
+msgid "Operating result VI (V+d+e+f-g-h)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_a
+msgid "Operating subsidies (a)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_h
+msgid "Other expenses (h)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report,name:l10n_fr_reports.l10n_fr_pl_imb_account_financial_report
+msgid "IMB - Intermediate management balances"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_d
+msgid "Other operating income (d)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_c
+msgid "Personnel costs (c)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_II
+msgid "Production for the year (II)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_3
+msgid "Production sold"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_2
+msgid "Purchase cost of goods sold"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_IX
+msgid "Result for the year IX (VII+VIII-o-p)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_e
+msgid "Reversals of depreciations and operating provisions (e)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_1
+msgid "Sale of goods"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_k
+msgid "Share of profit from joint operations (k)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_i
+msgid "Share of profit on joint operations (i)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_4
+msgid "Stocked production"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_b
+msgid "Taxes and similar payments (b)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_I
+msgid "Trade margin (I)"
+msgstr ""
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_IV
+msgid "Value Added IV (I+II-III)"
+msgstr ""

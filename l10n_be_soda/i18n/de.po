@@ -1,0 +1,62 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_be_soda
+# 
+# Translators:
+# Martin Trigaux, 2023
+# Mathias Landgraf <mathias.landgraf@ironcad4d.de>, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-03 07:14+0000\n"
+"PO-Revision-Date: 2023-02-03 07:15+0000\n"
+"Last-Translator: Mathias Landgraf <mathias.landgraf@ironcad4d.de>, 2023\n"
+"Language-Team: German (https://app.transifex.com/odoo/teams/41243/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. module: l10n_be_soda
+#: model:ir.model,name:l10n_be_soda.model_account_journal
+msgid "Journal"
+msgstr "Journal"
+
+#. module: l10n_be_soda
+#. odoo-python
+#: code:addons/l10n_be_soda/models/account_journal.py:0
+#, python-format
+msgid "No attachment was provided"
+msgstr "Es wurde kein Anhang hinzugefügt."
+
+#. module: l10n_be_soda
+#. odoo-python
+#: code:addons/l10n_be_soda/models/account_journal.py:0
+#, python-format
+msgid ""
+"The SODA Entry could not be created: \n"
+"The company VAT number found in at least one document doesn't match the one from the company's journal."
+msgstr ""
+"Die SODA-Buchung konnte nicht erstellt werden: \n"
+"Die Umsatzsteuer-Identifikationsnummer des Unternehmens, die in mindestens einem Dokument gefunden wurde, stimmt nicht mit der aus dem Unternehmensjournal überein."
+
+#. module: l10n_be_soda
+#. odoo-python
+#: code:addons/l10n_be_soda/models/account_journal.py:0
+#, python-format
+msgid ""
+"The SODA Entry could not be created: \n"
+"The company VAT number found in the document doesn't match the one from the company's journal."
+msgstr ""
+"Die SODA-Buchung konnte nicht erstellt werden: \n"
+"Die im Dokument gefundene Umsatzsteuer-Identifikationsnummer des Unternehmens stimmt nicht mit der aus dem Unternehmensjournal überein."
+
+#. module: l10n_be_soda
+#. odoo-python
+#: code:addons/l10n_be_soda/models/account_journal.py:0
+#, python-format
+msgid "The entry %s has already been uploaded (%s)."
+msgstr "Der Eintrag %s wurde bereits hochgeladen (%s)."

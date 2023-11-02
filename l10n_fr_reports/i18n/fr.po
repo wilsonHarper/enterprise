@@ -1,0 +1,171 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_fr_reports
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-17 13:58+0000\n"
+"PO-Revision-Date: 2023-02-17 13:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_g
+msgid "Amortization, depreciation and operating provisions (g)"
+msgstr "Dotations aux amort., dépréciations et provisions d'exploitation (g)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_5
+msgid "Capitalized production"
+msgstr "Production immobilisée"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_III
+msgid "Consumption during the year from third parties (III)"
+msgstr "Consommations de l'exercice en provenance de tiers (III)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_VII
+msgid "Current result before tax VII (VI+i+j-k-l)"
+msgstr "Résultat courant avant impôt VII (VI+i+j-k-l)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_o
+msgid "Employee participation (o)"
+msgstr "Participation des salariés (o)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_n
+msgid "Exceptional expenses (n)"
+msgstr "Charges exceptionnelles (n)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_m
+msgid "Extraordinary income (m)"
+msgstr "Produits exceptionnels (m)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_VIII
+msgid "Extraordinary result VIII (m-n)"
+msgstr "Résultat exceptionnel VIII (m-n)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_l
+msgid "Financial charges (l)"
+msgstr "Charges financières (l)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_j
+msgid "Financial income (j)"
+msgstr "Produits financiers (j)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_V
+msgid "Gross operating surplus V (IV+a-b-c)"
+msgstr "Excédent Brut d'Exploitation V (IV+a-b-c)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_p
+msgid "Income tax (p)"
+msgstr "Impôt sur les bénéfices (p)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_f
+msgid "Operating expense transfers (f)"
+msgstr "Transferts de charges d'exploitation (f)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_VI
+msgid "Operating result VI (V+d+e+f-g-h)"
+msgstr "Résultat d'Exploitation VI (V+d+e+f-g-h)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_a
+msgid "Operating subsidies (a)"
+msgstr "Subventions d'exploitation (a)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_h
+msgid "Other expenses (h)"
+msgstr "Autres charges (h)"
+
+#. module: l10n_fr_reports
+#: model:account.report,name:l10n_fr_reports.l10n_fr_pl_imb_account_financial_report
+msgid "IMB - Intermediate management balances"
+msgstr "SIG - Soldes intermédiaires de Gestion"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_d
+msgid "Other operating income (d)"
+msgstr "Autre produits d'exploitation (d)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_c
+msgid "Personnel costs (c)"
+msgstr "Charges de personnel (c)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_II
+msgid "Production for the year (II)"
+msgstr "Production de l'exercice (II)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_3
+msgid "Production sold"
+msgstr "Production vendue"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_2
+msgid "Purchase cost of goods sold"
+msgstr "Cout d'achat des marchandises vendues"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_IX
+msgid "Result for the year IX (VII+VIII-o-p)"
+msgstr "Résultat de l'exercice IX (VII+VIII-o-p)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_e
+msgid "Reversals of depreciations and operating provisions (e)"
+msgstr "Reprises sur dépreciations et provisions d'exploitations (e)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_1
+msgid "Sale of goods"
+msgstr "Ventes de marchandises"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_k
+msgid "Share of profit from joint operations (k)"
+msgstr "Quote-part de résultat sur opérations faites en commun (k)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_i
+msgid "Share of profit on joint operations (i)"
+msgstr "Quote-part de résultat sur opérations faites en commun (i)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_4
+msgid "Stocked production"
+msgstr "Production stockée"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_b
+msgid "Taxes and similar payments (b)"
+msgstr "Impots, taxes et versements assimilés (b)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_I
+msgid "Trade margin (I)"
+msgstr "Marge commerciale (I)"
+
+#. module: l10n_fr_reports
+#: model:account.report.line,name:l10n_fr_reports.l10n_fr_pl_imb_IV
+msgid "Value Added IV (I+II-III)"
+msgstr "Valeur Ajoutée IV (I+II-III)"
